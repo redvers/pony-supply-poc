@@ -1,0 +1,20 @@
+{
+  "packages": [
+  ],
+  "deps": [
+    {
+      "locator": "github.com/redvers/malicious-matrix-clientapi.git",
+      "version": ""
+    }
+  ],
+  "info": {
+    "description": "This package is the innocent victim",
+    "homepage": "",
+    "license": "",
+    "documentation_url": "",
+    "version": "0.0.1",
+    "name": "innocent"
+  }
+}
+
+
